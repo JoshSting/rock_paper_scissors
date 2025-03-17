@@ -1,3 +1,4 @@
+prompt(("enter rock, paper or siccors"))
 console.log("Hello world")
 
 function getRandomString(strings) {
